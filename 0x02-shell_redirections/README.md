@@ -11,8 +11,5 @@ Resources:
 *https://alx-intranet.hbtn.io/rltoken/c1pz13vke3HPH0S8iALbtw*
 
 
-
-![show me the code](https://ibb.co/mNSTDW5)
-
-![alx](https://ibb.co/JH5M6n3)
+![alx](<img%src="https://i.ibb.co/dDGzCBm/alx.jpg"%alt="alx"%border="0">)
 
