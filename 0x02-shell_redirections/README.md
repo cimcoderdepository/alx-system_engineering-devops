@@ -7,10 +7,10 @@ INDICES:
 **Filters**.
 
 Resources:
-https://alx-intranet.hbtn.io/rltoken/fGOQQXRKbvOcd1qLRxHzLQ;
-https://alx-intranet.hbtn.io/rltoken/c1pz13vke3HPH0S8iALbtw
+*https://alx-intranet.hbtn.io/rltoken/fGOQQXRKbvOcd1qLRxHzLQ* ;
+*https://alx-intranet.hbtn.io/rltoken/c1pz13vke3HPH0S8iALbtw*
 
 
 
-https://photos.app.goo.gl/QvEZVvHdJ1xKUvwn9
+![show me the code](https://photos.app.goo.gl/QvEZVvHdJ1xKUvwn9)
 
