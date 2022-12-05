@@ -10,6 +10,3 @@ Resources:
 *https://alx-intranet.hbtn.io/rltoken/fGOQQXRKbvOcd1qLRxHzLQ* ;
 *https://alx-intranet.hbtn.io/rltoken/c1pz13vke3HPH0S8iALbtw*
 
-
-![alx](<img%src="https://i.ibb.co/dDGzCBm/alx.jpg"%alt="alx"%border="0">)
-
