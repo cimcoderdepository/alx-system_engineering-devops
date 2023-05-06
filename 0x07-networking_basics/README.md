@@ -2,7 +2,9 @@
 `DevOps`
 `Network`
 
-![WHAT IS OSI](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230505T210855Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9538d555b7a63b760e31fefe752f1a289fa798fe4fb1db096c5831bc16fba563)
+![WHAT IS OSI](https://www.imperva.com/learn/wp-content/uploads/sites/13/2020/02/OSI-7-layers.jpg)
+
+![WHAT IS OSI](https://i.pinimg.com/originals/99/13/46/9913468a07ebb9ab754aa9c484ec566b.png)
 
 # Resources
 
